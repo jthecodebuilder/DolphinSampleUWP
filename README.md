@@ -31,11 +31,11 @@ Press the "Start Debugging" button, which should say either "Local Machine" or "
 
 ## Controls
 
-# Gamepad (Xbox Controller)
+### Gamepad (Xbox Controller)
 
 View button: Exit sample
 
-# Keyboard
+### Keyboard
 
 Esc: Exit sample
 
@@ -59,7 +59,11 @@ Any help implementing these features would be apreciated, especially the top two
 
 ## Screenshots
 
-(temporarily empty)
+### Windows 10
+![DolphinSampleUWP 3_17_2021 8_33_48 PM](https://user-images.githubusercontent.com/22670693/111577101-adb74e80-877f-11eb-8f0a-ebac4c20c9f6.png)
+
+### Xbox One (S)
+![Screenshot_2021-03-17_23-47-10](https://user-images.githubusercontent.com/22670693/111577205-d93a3900-877f-11eb-8f63-c5fd10e9a712.png)
 
 ### Very important notice
 
