@@ -73,6 +73,6 @@ All jokes aside, though...
 
 ### Notice
 
-This repository is based on code from publically available GitHub repositories made by Microsoft Corporation, and has been released under the MIT License. This repository is in no part affiliated with the company, other than being the original authors. Regardless, no illegal activity is intended, since I'm just making this sample available in a more modern plaform for everyone to use, and due to the latter in the previous sentence.
+This repository is based on code from publically available GitHub repositories made by Microsoft Corporation, and has been released under the MIT License. This repository is in no part affiliated with the company, other than being the original authors. Regardless, no illegal activity is intended, since I'm just making this sample available in a more modern plaform for everyone to use, and due to the original license terms of the public Microsoft repository.
 
 Microsoft, Windows, Xbox, and all other related terms are property of Microsoft Corporation, and are presumed to be used under fair use. 
